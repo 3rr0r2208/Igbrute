@@ -7,15 +7,22 @@ in this single multipurpose tool!!!
 __________________________________________________________________________________________________
   #Debian distros
     sudo apt-get install git -y
+
     git clone https://github.com/3rr0r2208/Igbrute.git
+
     cd Igbrute
+
     sudo sh Igbrute.sh
 __________________________________________________________________________________________________
   #termux
      pkg install git -y
+
      git clone https://github.com/3rr0r2208/Igbrute.git
+
      cd Igbrute
+
      chmod +x Igbrute.sh
+
      sh Igbrute.sh
 ===================================================================================================
 
